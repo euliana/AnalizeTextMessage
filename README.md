@@ -1,0 +1,2 @@
+# AnalizeTextMessage
+Practice. Individual project
